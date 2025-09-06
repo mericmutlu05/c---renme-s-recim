@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\RepeatCourse\\04_try_catch\\02_try-catch-finally\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD764347-65A1-4D8B-B251-0FFBB6F0DC76}|02_try-catch-finally\\02_try-catch-finally.csproj|c:\\users\\msi\\desktop\\repeatcourse\\04_try_catch\\02_try-catch-finally\\02_try-catch-finally\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD764347-65A1-4D8B-B251-0FFBB6F0DC76}|02_try-catch-finally\\02_try-catch-finally.csproj|solutionrelative:02_try-catch-finally\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\RepeatCourse\\04_try_catch\\02_try-catch-finally\\02_try-catch-finally\\Program.cs",
+              "RelativeDocumentMoniker": "02_try-catch-finally\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\RepeatCourse\\04_try_catch\\02_try-catch-finally\\02_try-catch-finally\\Program.cs",
+              "RelativeToolTip": "02_try-catch-finally\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:28:06.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

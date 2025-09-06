@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\bin\Debug\net8.0\10_random.exe
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\bin\Debug\net8.0\10_random.deps.json
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\bin\Debug\net8.0\10_random.runtimeconfig.json
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\bin\Debug\net8.0\10_random.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\bin\Debug\net8.0\10_random.pdb
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\obj\Debug\net8.0\10_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\obj\Debug\net8.0\10_random.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\obj\Debug\net8.0\10_random.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\obj\Debug\net8.0\10_random.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\obj\Debug\net8.0\10_random.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\obj\Debug\net8.0\refint\10_random.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\obj\Debug\net8.0\10_random.pdb
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\obj\Debug\net8.0\10_random.genruntimeconfig.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\10_random\10_random\obj\Debug\net8.0\ref\10_random.dll

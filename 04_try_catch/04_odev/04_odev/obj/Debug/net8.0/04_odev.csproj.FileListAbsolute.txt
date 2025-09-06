@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\bin\Debug\net8.0\04_odev.exe
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\bin\Debug\net8.0\04_odev.deps.json
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\bin\Debug\net8.0\04_odev.runtimeconfig.json
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\bin\Debug\net8.0\04_odev.dll
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\bin\Debug\net8.0\04_odev.pdb
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\obj\Debug\net8.0\04_odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\obj\Debug\net8.0\04_odev.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\obj\Debug\net8.0\04_odev.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\obj\Debug\net8.0\04_odev.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\obj\Debug\net8.0\04_odev.dll
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\obj\Debug\net8.0\refint\04_odev.dll
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\obj\Debug\net8.0\04_odev.pdb
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\obj\Debug\net8.0\04_odev.genruntimeconfig.cache
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\04_odev\04_odev\obj\Debug\net8.0\ref\04_odev.dll

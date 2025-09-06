@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\obj\Debug\net8.0\11_random_ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\obj\Debug\net8.0\11_random_ornek.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\obj\Debug\net8.0\11_random_ornek.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\obj\Debug\net8.0\11_random_ornek.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\bin\Debug\net8.0\11_random_ornek.exe
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\bin\Debug\net8.0\11_random_ornek.deps.json
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\bin\Debug\net8.0\11_random_ornek.runtimeconfig.json
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\bin\Debug\net8.0\11_random_ornek.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\bin\Debug\net8.0\11_random_ornek.pdb
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\obj\Debug\net8.0\11_random_ornek.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\obj\Debug\net8.0\refint\11_random_ornek.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\obj\Debug\net8.0\11_random_ornek.pdb
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\obj\Debug\net8.0\11_random_ornek.genruntimeconfig.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\11_random_ornek\11_random_ornek\obj\Debug\net8.0\ref\11_random_ornek.dll

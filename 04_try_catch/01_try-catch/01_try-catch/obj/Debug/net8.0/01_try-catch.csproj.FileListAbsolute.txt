@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\bin\Debug\net8.0\01_try-catch.exe
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\bin\Debug\net8.0\01_try-catch.deps.json
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\bin\Debug\net8.0\01_try-catch.runtimeconfig.json
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\bin\Debug\net8.0\01_try-catch.dll
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\bin\Debug\net8.0\01_try-catch.pdb
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\obj\Debug\net8.0\01_try-catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\obj\Debug\net8.0\01_try-catch.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\obj\Debug\net8.0\01_try-catch.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\obj\Debug\net8.0\01_try-catch.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\obj\Debug\net8.0\01_try-catch.dll
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\obj\Debug\net8.0\refint\01_try-catch.dll
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\obj\Debug\net8.0\01_try-catch.pdb
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\obj\Debug\net8.0\01_try-catch.genruntimeconfig.cache
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_try-catch\01_try-catch\obj\Debug\net8.0\ref\01_try-catch.dll

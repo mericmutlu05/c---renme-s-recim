@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\bin\Debug\net8.0\07_ıf-else.exe
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\bin\Debug\net8.0\07_ıf-else.deps.json
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\bin\Debug\net8.0\07_ıf-else.runtimeconfig.json
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\bin\Debug\net8.0\07_ıf-else.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\bin\Debug\net8.0\07_ıf-else.pdb
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\obj\Debug\net8.0\07_ıf-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\obj\Debug\net8.0\07_ıf-else.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\obj\Debug\net8.0\07_ıf-else.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\obj\Debug\net8.0\07_ıf-else.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\obj\Debug\net8.0\07_ıf-else.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\obj\Debug\net8.0\refint\07_ıf-else.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\obj\Debug\net8.0\07_ıf-else.pdb
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\obj\Debug\net8.0\07_ıf-else.genruntimeconfig.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\07_ıf-else\07_ıf-else\obj\Debug\net8.0\ref\07_ıf-else.dll

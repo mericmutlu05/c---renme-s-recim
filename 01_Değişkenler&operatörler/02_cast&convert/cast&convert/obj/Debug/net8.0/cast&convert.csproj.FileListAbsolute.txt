@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\bin\Debug\net8.0\cast&convert.exe
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\bin\Debug\net8.0\cast&convert.deps.json
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\bin\Debug\net8.0\cast&convert.runtimeconfig.json
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\bin\Debug\net8.0\cast&convert.dll
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\bin\Debug\net8.0\cast&convert.pdb
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\obj\Debug\net8.0\cast&convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\obj\Debug\net8.0\cast&convert.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\obj\Debug\net8.0\cast&convert.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\obj\Debug\net8.0\cast&convert.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\obj\Debug\net8.0\cast&convert.dll
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\obj\Debug\net8.0\refint\cast&convert.dll
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\obj\Debug\net8.0\cast&convert.pdb
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\obj\Debug\net8.0\cast&convert.genruntimeconfig.cache
+C:\Users\MSI\Desktop\RepeatCourse\cast&convert\cast&convert\obj\Debug\net8.0\ref\cast&convert.dll

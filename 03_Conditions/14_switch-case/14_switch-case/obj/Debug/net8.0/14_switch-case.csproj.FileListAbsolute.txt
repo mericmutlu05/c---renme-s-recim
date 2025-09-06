@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\bin\Debug\net8.0\14_switch-case.exe
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\bin\Debug\net8.0\14_switch-case.deps.json
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\bin\Debug\net8.0\14_switch-case.runtimeconfig.json
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\bin\Debug\net8.0\14_switch-case.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\bin\Debug\net8.0\14_switch-case.pdb
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\obj\Debug\net8.0\14_switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\obj\Debug\net8.0\14_switch-case.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\obj\Debug\net8.0\14_switch-case.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\obj\Debug\net8.0\14_switch-case.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\obj\Debug\net8.0\14_switch-case.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\obj\Debug\net8.0\refint\14_switch-case.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\obj\Debug\net8.0\14_switch-case.pdb
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\obj\Debug\net8.0\14_switch-case.genruntimeconfig.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\14_switch-case\14_switch-case\obj\Debug\net8.0\ref\14_switch-case.dll

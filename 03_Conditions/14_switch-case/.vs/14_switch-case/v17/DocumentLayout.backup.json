@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\RepeatCourse\\03_Conditions\\14_switch-case\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6F40F9-324A-4E58-9ED4-D860F036B96A}|14_switch-case\\14_switch-case.csproj|c:\\users\\msi\\desktop\\repeatcourse\\03_conditions\\14_switch-case\\14_switch-case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6F40F9-324A-4E58-9ED4-D860F036B96A}|14_switch-case\\14_switch-case.csproj|solutionrelative:14_switch-case\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\RepeatCourse\\03_Conditions\\14_switch-case\\14_switch-case\\Program.cs",
+              "RelativeDocumentMoniker": "14_switch-case\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\RepeatCourse\\03_Conditions\\14_switch-case\\14_switch-case\\Program.cs",
+              "RelativeToolTip": "14_switch-case\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T21:00:50.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

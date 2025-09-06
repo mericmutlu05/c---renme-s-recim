@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\bin\Debug\net8.0\01_If-else.exe
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\bin\Debug\net8.0\01_If-else.deps.json
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\bin\Debug\net8.0\01_If-else.runtimeconfig.json
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\bin\Debug\net8.0\01_If-else.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\bin\Debug\net8.0\01_If-else.pdb
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\obj\Debug\net8.0\01_If-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\obj\Debug\net8.0\01_If-else.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\obj\Debug\net8.0\01_If-else.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\obj\Debug\net8.0\01_If-else.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\obj\Debug\net8.0\01_If-else.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\obj\Debug\net8.0\refint\01_If-else.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\obj\Debug\net8.0\01_If-else.pdb
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\obj\Debug\net8.0\01_If-else.genruntimeconfig.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\01_If-else\01_If-else\obj\Debug\net8.0\ref\01_If-else.dll

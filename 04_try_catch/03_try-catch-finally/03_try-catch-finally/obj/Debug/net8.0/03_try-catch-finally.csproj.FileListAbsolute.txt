@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\bin\Debug\net8.0\03_try-catch-finally.exe
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\bin\Debug\net8.0\03_try-catch-finally.deps.json
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\bin\Debug\net8.0\03_try-catch-finally.runtimeconfig.json
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\bin\Debug\net8.0\03_try-catch-finally.dll
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\bin\Debug\net8.0\03_try-catch-finally.pdb
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\obj\Debug\net8.0\03_try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\obj\Debug\net8.0\03_try-catch-finally.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\obj\Debug\net8.0\03_try-catch-finally.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\obj\Debug\net8.0\03_try-catch-finally.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\obj\Debug\net8.0\03_try-catch-finally.dll
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\obj\Debug\net8.0\refint\03_try-catch-finally.dll
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\obj\Debug\net8.0\03_try-catch-finally.pdb
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\obj\Debug\net8.0\03_try-catch-finally.genruntimeconfig.cache
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\03_try-catch-finally\03_try-catch-finally\obj\Debug\net8.0\ref\03_try-catch-finally.dll

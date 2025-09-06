@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\obj\Debug\net8.0\01_Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\obj\Debug\net8.0\01_Degiskenler.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\obj\Debug\net8.0\01_Degiskenler.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\obj\Debug\net8.0\01_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\bin\Debug\net8.0\01_Degiskenler.exe
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\bin\Debug\net8.0\01_Degiskenler.deps.json
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\bin\Debug\net8.0\01_Degiskenler.runtimeconfig.json
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\bin\Debug\net8.0\01_Degiskenler.dll
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\bin\Debug\net8.0\01_Degiskenler.pdb
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\obj\Debug\net8.0\01_Degiskenler.dll
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\obj\Debug\net8.0\refint\01_Degiskenler.dll
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\obj\Debug\net8.0\01_Degiskenler.pdb
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\obj\Debug\net8.0\01_Degiskenler.genruntimeconfig.cache
+C:\Users\MSI\Desktop\RepeatCourse\01_Degiskenler\01_Degiskenler\obj\Debug\net8.0\ref\01_Degiskenler.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\RepeatCourse\\03_Conditions\\01_If-else\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8ADB99-CCC2-43D2-9DFD-97AD270C542B}|01_If-else\\01_If-else.csproj|c:\\users\\msi\\desktop\\repeatcourse\\03_conditions\\01_if-else\\01_if-else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8ADB99-CCC2-43D2-9DFD-97AD270C542B}|01_If-else\\01_If-else.csproj|solutionrelative:01_if-else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\RepeatCourse\\03_Conditions\\01_If-else\\01_If-else\\Program.cs",
+              "RelativeDocumentMoniker": "01_If-else\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\RepeatCourse\\03_Conditions\\01_If-else\\01_If-else\\Program.cs",
+              "RelativeToolTip": "01_If-else\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:15:23.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

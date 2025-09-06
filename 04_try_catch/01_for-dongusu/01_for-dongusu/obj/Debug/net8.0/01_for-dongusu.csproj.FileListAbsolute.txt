@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\bin\Debug\net8.0\01_for-dongusu.exe
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\bin\Debug\net8.0\01_for-dongusu.deps.json
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\bin\Debug\net8.0\01_for-dongusu.runtimeconfig.json
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\bin\Debug\net8.0\01_for-dongusu.dll
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\bin\Debug\net8.0\01_for-dongusu.pdb
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\obj\Debug\net8.0\01_for-dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\obj\Debug\net8.0\01_for-dongusu.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\obj\Debug\net8.0\01_for-dongusu.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\obj\Debug\net8.0\01_for-dongusu.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\obj\Debug\net8.0\01_for-dongusu.dll
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\obj\Debug\net8.0\refint\01_for-dongusu.dll
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\obj\Debug\net8.0\01_for-dongusu.pdb
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\obj\Debug\net8.0\01_for-dongusu.genruntimeconfig.cache
+C:\Users\MSI\Desktop\RepeatCourse\04_try_catch\01_for-dongusu\01_for-dongusu\obj\Debug\net8.0\ref\01_for-dongusu.dll

@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\bin\Debug\net8.0\12_ıf-else-ornek.exe
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\bin\Debug\net8.0\12_ıf-else-ornek.deps.json
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\bin\Debug\net8.0\12_ıf-else-ornek.runtimeconfig.json
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\bin\Debug\net8.0\12_ıf-else-ornek.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\bin\Debug\net8.0\12_ıf-else-ornek.pdb
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\obj\Debug\net8.0\12_ıf-else-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\obj\Debug\net8.0\12_ıf-else-ornek.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\obj\Debug\net8.0\12_ıf-else-ornek.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\obj\Debug\net8.0\12_ıf-else-ornek.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\obj\Debug\net8.0\12_ıf-else-ornek.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\obj\Debug\net8.0\refint\12_ıf-else-ornek.dll
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\obj\Debug\net8.0\12_ıf-else-ornek.pdb
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\obj\Debug\net8.0\12_ıf-else-ornek.genruntimeconfig.cache
+C:\Users\MSI\Desktop\RepeatCourse\03_Conditions\12_ıf-else-ornek\12_ıf-else-ornek\obj\Debug\net8.0\ref\12_ıf-else-ornek.dll
