@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\bin\Debug\net8.0\01_For-Dongusu.exe
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\bin\Debug\net8.0\01_For-Dongusu.deps.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\bin\Debug\net8.0\01_For-Dongusu.runtimeconfig.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\bin\Debug\net8.0\01_For-Dongusu.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\bin\Debug\net8.0\01_For-Dongusu.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\obj\Debug\net8.0\01_For-Dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\obj\Debug\net8.0\01_For-Dongusu.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\obj\Debug\net8.0\01_For-Dongusu.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\obj\Debug\net8.0\01_For-Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\obj\Debug\net8.0\01_For-Dongusu.sourcelink.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\obj\Debug\net8.0\01_For-Dongusu.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\obj\Debug\net8.0\refint\01_For-Dongusu.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\obj\Debug\net8.0\01_For-Dongusu.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\obj\Debug\net8.0\01_For-Dongusu.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\01_For-Dongusu\obj\Debug\net8.0\ref\01_For-Dongusu.dll
