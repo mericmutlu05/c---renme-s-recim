@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\c#-öğrenme-sürecim\\05_loops\\09_Odev\\09_Odev.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\c-ogrenme-surecim\\05_loops\\09_Odev\\09_Odev.csproj",
       "projectName": "09_Odev",
-      "projectPath": "C:\\Users\\MSI\\Desktop\\c#-öğrenme-sürecim\\05_loops\\09_Odev\\09_Odev.csproj",
+      "projectPath": "C:\\Users\\MSI\\Desktop\\c-ogrenme-surecim\\05_loops\\09_Odev\\09_Odev.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\Desktop\\c#-öğrenme-sürecim\\05_loops\\09_Odev\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\Desktop\\c-ogrenme-surecim\\05_loops\\09_Odev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\c#-\u00F6\u011Frenme-s\u00FCrecim\\05_loops\\09_Odev\\",
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\c-ogrenme-surecim\\05_loops\\09_Odev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58A9141A-BD5E-40F9-80E8-BF7087CA980B}|09_Odev.csproj|c:\\users\\msi\\desktop\\c#-\u00F6\u011Frenme-s\u00FCrecim\\05_loops\\09_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58A9141A-BD5E-40F9-80E8-BF7087CA980B}|09_Odev.csproj|c:\\users\\msi\\desktop\\c-ogrenme-surecim\\05_loops\\09_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58A9141A-BD5E-40F9-80E8-BF7087CA980B}|09_Odev.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\c#-\u00F6\u011Frenme-s\u00FCrecim\\05_loops\\09_Odev\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\c-ogrenme-surecim\\05_loops\\09_Odev\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\MSI\\Desktop\\c#-\u00F6\u011Frenme-s\u00FCrecim\\05_loops\\09_Odev\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\c-ogrenme-surecim\\05_loops\\09_Odev\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T19:22:09.42Z",
               "EditorCaption": ""

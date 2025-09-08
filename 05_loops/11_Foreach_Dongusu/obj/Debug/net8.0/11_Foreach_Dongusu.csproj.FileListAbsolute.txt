@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\bin\Debug\net8.0\11_Foreach_Dongusu.exe
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\bin\Debug\net8.0\11_Foreach_Dongusu.deps.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\bin\Debug\net8.0\11_Foreach_Dongusu.runtimeconfig.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\bin\Debug\net8.0\11_Foreach_Dongusu.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\bin\Debug\net8.0\11_Foreach_Dongusu.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\obj\Debug\net8.0\11_Foreach_Dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\obj\Debug\net8.0\11_Foreach_Dongusu.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\obj\Debug\net8.0\11_Foreach_Dongusu.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\obj\Debug\net8.0\11_Foreach_Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\obj\Debug\net8.0\11_Foreach_Dongusu.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\obj\Debug\net8.0\refint\11_Foreach_Dongusu.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\obj\Debug\net8.0\11_Foreach_Dongusu.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\obj\Debug\net8.0\11_Foreach_Dongusu.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\11_Foreach_Dongusu\obj\Debug\net8.0\ref\11_Foreach_Dongusu.dll
