@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\c#-öğrenme-sürecim\\05_loops\\02_For-Dongusu\\02_For-Dongusu.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\c-ogrenme-surecim\\05_loops\\02_For-Dongusu\\02_For-Dongusu.csproj",
       "projectName": "02_For-Dongusu",
-      "projectPath": "C:\\Users\\MSI\\Desktop\\c#-öğrenme-sürecim\\05_loops\\02_For-Dongusu\\02_For-Dongusu.csproj",
+      "projectPath": "C:\\Users\\MSI\\Desktop\\c-ogrenme-surecim\\05_loops\\02_For-Dongusu\\02_For-Dongusu.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\Desktop\\c#-öğrenme-sürecim\\05_loops\\02_For-Dongusu\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\Desktop\\c-ogrenme-surecim\\05_loops\\02_For-Dongusu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

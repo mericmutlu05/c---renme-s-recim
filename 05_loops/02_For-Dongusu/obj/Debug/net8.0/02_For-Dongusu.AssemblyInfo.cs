@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02_For-Dongusu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec73a7e45aa1f6cd843886587f121115d4d66d39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7b10c432d48e812e65bbeaf0f769b9cdff58262")]
 [assembly: System.Reflection.AssemblyProductAttribute("02_For-Dongusu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02_For-Dongusu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

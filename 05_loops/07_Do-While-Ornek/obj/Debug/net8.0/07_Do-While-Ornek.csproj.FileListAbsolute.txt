@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\bin\Debug\net8.0\07_Do-While-Ornek.exe
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\bin\Debug\net8.0\07_Do-While-Ornek.deps.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\bin\Debug\net8.0\07_Do-While-Ornek.runtimeconfig.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\bin\Debug\net8.0\07_Do-While-Ornek.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\bin\Debug\net8.0\07_Do-While-Ornek.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\obj\Debug\net8.0\07_Do-While-Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\obj\Debug\net8.0\07_Do-While-Ornek.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\obj\Debug\net8.0\07_Do-While-Ornek.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\obj\Debug\net8.0\07_Do-While-Ornek.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\obj\Debug\net8.0\07_Do-While-Ornek.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\obj\Debug\net8.0\refint\07_Do-While-Ornek.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\obj\Debug\net8.0\07_Do-While-Ornek.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\obj\Debug\net8.0\07_Do-While-Ornek.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\07_Do-While-Ornek\obj\Debug\net8.0\ref\07_Do-While-Ornek.dll

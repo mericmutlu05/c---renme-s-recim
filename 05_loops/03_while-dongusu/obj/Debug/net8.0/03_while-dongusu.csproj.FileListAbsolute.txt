@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\bin\Debug\net8.0\03_while-dongusu.exe
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\bin\Debug\net8.0\03_while-dongusu.deps.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\bin\Debug\net8.0\03_while-dongusu.runtimeconfig.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\bin\Debug\net8.0\03_while-dongusu.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\bin\Debug\net8.0\03_while-dongusu.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\obj\Debug\net8.0\03_while-dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\obj\Debug\net8.0\03_while-dongusu.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\obj\Debug\net8.0\03_while-dongusu.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\obj\Debug\net8.0\03_while-dongusu.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\obj\Debug\net8.0\03_while-dongusu.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\obj\Debug\net8.0\refint\03_while-dongusu.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\obj\Debug\net8.0\03_while-dongusu.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\obj\Debug\net8.0\03_while-dongusu.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\03_while-dongusu\obj\Debug\net8.0\ref\03_while-dongusu.dll

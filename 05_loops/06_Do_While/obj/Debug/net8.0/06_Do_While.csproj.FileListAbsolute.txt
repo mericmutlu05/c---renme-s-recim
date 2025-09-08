@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\bin\Debug\net8.0\06_Do_While.exe
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\bin\Debug\net8.0\06_Do_While.deps.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\bin\Debug\net8.0\06_Do_While.runtimeconfig.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\bin\Debug\net8.0\06_Do_While.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\bin\Debug\net8.0\06_Do_While.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\obj\Debug\net8.0\06_Do_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\obj\Debug\net8.0\06_Do_While.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\obj\Debug\net8.0\06_Do_While.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\obj\Debug\net8.0\06_Do_While.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\obj\Debug\net8.0\06_Do_While.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\obj\Debug\net8.0\refint\06_Do_While.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\obj\Debug\net8.0\06_Do_While.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\obj\Debug\net8.0\06_Do_While.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\06_Do_While\obj\Debug\net8.0\ref\06_Do_While.dll

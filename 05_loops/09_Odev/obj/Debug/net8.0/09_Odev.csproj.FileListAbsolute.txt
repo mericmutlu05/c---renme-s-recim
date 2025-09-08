@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\bin\Debug\net8.0\09_Odev.exe
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\bin\Debug\net8.0\09_Odev.deps.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\bin\Debug\net8.0\09_Odev.runtimeconfig.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\bin\Debug\net8.0\09_Odev.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\bin\Debug\net8.0\09_Odev.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\obj\Debug\net8.0\09_Odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\obj\Debug\net8.0\09_Odev.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\obj\Debug\net8.0\09_Odev.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\obj\Debug\net8.0\09_Odev.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\obj\Debug\net8.0\09_Odev.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\obj\Debug\net8.0\refint\09_Odev.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\obj\Debug\net8.0\09_Odev.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\obj\Debug\net8.0\09_Odev.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\09_Odev\obj\Debug\net8.0\ref\09_Odev.dll

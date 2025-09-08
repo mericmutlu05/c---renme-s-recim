@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\bin\Debug\net8.0\05_whileornek.exe
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\bin\Debug\net8.0\05_whileornek.deps.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\bin\Debug\net8.0\05_whileornek.runtimeconfig.json
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\bin\Debug\net8.0\05_whileornek.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\bin\Debug\net8.0\05_whileornek.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\obj\Debug\net8.0\05_whileornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\obj\Debug\net8.0\05_whileornek.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\obj\Debug\net8.0\05_whileornek.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\obj\Debug\net8.0\05_whileornek.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\obj\Debug\net8.0\05_whileornek.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\obj\Debug\net8.0\refint\05_whileornek.dll
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\obj\Debug\net8.0\05_whileornek.pdb
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\obj\Debug\net8.0\05_whileornek.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c#-öğrenme-sürecim\05_loops\05_whileornek\obj\Debug\net8.0\ref\05_whileornek.dll

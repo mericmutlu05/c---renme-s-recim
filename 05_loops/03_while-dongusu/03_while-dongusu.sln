@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_while-dongusu", "03_while-dongusu.csproj", "{C31D0E92-D349-482C-AF3B-2C586AD27AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31D0E92-D349-482C-AF3B-2C586AD27AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31D0E92-D349-482C-AF3B-2C586AD27AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31D0E92-D349-482C-AF3B-2C586AD27AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31D0E92-D349-482C-AF3B-2C586AD27AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B8B51FD-4DA7-48E1-8C46-DCE87BAED47D}
+	EndGlobalSection
+EndGlobal

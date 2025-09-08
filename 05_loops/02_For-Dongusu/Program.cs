@@ -39,7 +39,7 @@
             //    Console.WriteLine(alfabe[ran.Next(0,alfabe.Length)]);
             //}
             #endregion
-
+           
             #region ornek
             //klavyeden girilen bir cümlenin her harfini döngü ile alt alta yazdıran programı yazalım
 
@@ -52,6 +52,7 @@
             //}
 
             #endregion
+
         }
     }
 }
