@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\bin\Debug\net8.0\02_Array_Methodlar.exe
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\bin\Debug\net8.0\02_Array_Methodlar.deps.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\bin\Debug\net8.0\02_Array_Methodlar.runtimeconfig.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\bin\Debug\net8.0\02_Array_Methodlar.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\bin\Debug\net8.0\02_Array_Methodlar.pdb
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\obj\Debug\net8.0\02_Array_Methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\obj\Debug\net8.0\02_Array_Methodlar.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\obj\Debug\net8.0\02_Array_Methodlar.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\obj\Debug\net8.0\02_Array_Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\obj\Debug\net8.0\02_Array_Methodlar.sourcelink.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\obj\Debug\net8.0\02_Array_Methodlar.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\obj\Debug\net8.0\refint\02_Array_Methodlar.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\obj\Debug\net8.0\02_Array_Methodlar.pdb
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\obj\Debug\net8.0\02_Array_Methodlar.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Array_Methodlar\obj\Debug\net8.0\ref\02_Array_Methodlar.dll

@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\bin\Debug\net8.0\04_Array_Ornek.exe
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\bin\Debug\net8.0\04_Array_Ornek.deps.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\bin\Debug\net8.0\04_Array_Ornek.runtimeconfig.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\bin\Debug\net8.0\04_Array_Ornek.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\bin\Debug\net8.0\04_Array_Ornek.pdb
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\obj\Debug\net8.0\04_Array_Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\obj\Debug\net8.0\04_Array_Ornek.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\obj\Debug\net8.0\04_Array_Ornek.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\obj\Debug\net8.0\04_Array_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\obj\Debug\net8.0\04_Array_Ornek.sourcelink.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\obj\Debug\net8.0\04_Array_Ornek.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\obj\Debug\net8.0\refint\04_Array_Ornek.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\obj\Debug\net8.0\04_Array_Ornek.pdb
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\obj\Debug\net8.0\04_Array_Ornek.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\04_Array_Ornek\obj\Debug\net8.0\ref\04_Array_Ornek.dll

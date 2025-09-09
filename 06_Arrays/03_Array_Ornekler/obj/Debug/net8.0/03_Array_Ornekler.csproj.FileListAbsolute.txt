@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\bin\Debug\net8.0\03_Array_Ornekler.exe
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\bin\Debug\net8.0\03_Array_Ornekler.deps.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\bin\Debug\net8.0\03_Array_Ornekler.runtimeconfig.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\bin\Debug\net8.0\03_Array_Ornekler.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\bin\Debug\net8.0\03_Array_Ornekler.pdb
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\obj\Debug\net8.0\03_Array_Ornekler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\obj\Debug\net8.0\03_Array_Ornekler.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\obj\Debug\net8.0\03_Array_Ornekler.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\obj\Debug\net8.0\03_Array_Ornekler.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\obj\Debug\net8.0\03_Array_Ornekler.sourcelink.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\obj\Debug\net8.0\03_Array_Ornekler.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\obj\Debug\net8.0\refint\03_Array_Ornekler.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\obj\Debug\net8.0\03_Array_Ornekler.pdb
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\obj\Debug\net8.0\03_Array_Ornekler.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\03_Array_Ornekler\obj\Debug\net8.0\ref\03_Array_Ornekler.dll

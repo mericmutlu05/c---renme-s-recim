@@ -1,0 +1,14 @@
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\bin\Debug\net8.0\01_Array_Giris.exe
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\bin\Debug\net8.0\01_Array_Giris.deps.json
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\bin\Debug\net8.0\01_Array_Giris.runtimeconfig.json
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\bin\Debug\net8.0\01_Array_Giris.dll
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\bin\Debug\net8.0\01_Array_Giris.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\obj\Debug\net8.0\01_Array_Giris.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\obj\Debug\net8.0\01_Array_Giris.AssemblyInfoInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\obj\Debug\net8.0\01_Array_Giris.AssemblyInfo.cs
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\obj\Debug\net8.0\01_Array_Giris.csproj.CoreCompileInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\obj\Debug\net8.0\01_Array_Giris.dll
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\obj\Debug\net8.0\refint\01_Array_Giris.dll
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\obj\Debug\net8.0\01_Array_Giris.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\obj\Debug\net8.0\01_Array_Giris.genruntimeconfig.cache
+D:\Onur_10_13\01_C#-Giriş\06_Arrays\01_Array_Giris\obj\Debug\net8.0\ref\01_Array_Giris.dll
