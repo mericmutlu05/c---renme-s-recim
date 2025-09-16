@@ -1,0 +1,14 @@
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\bin\Debug\net8.0\03_Method_Ornekler.exe
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\bin\Debug\net8.0\03_Method_Ornekler.deps.json
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\bin\Debug\net8.0\03_Method_Ornekler.runtimeconfig.json
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\bin\Debug\net8.0\03_Method_Ornekler.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\bin\Debug\net8.0\03_Method_Ornekler.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\obj\Debug\net8.0\03_Method_Ornekler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\obj\Debug\net8.0\03_Method_Ornekler.AssemblyInfoInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\obj\Debug\net8.0\03_Method_Ornekler.AssemblyInfo.cs
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\obj\Debug\net8.0\03_Method_Ornekler.csproj.CoreCompileInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\obj\Debug\net8.0\03_Method_Ornekler.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\obj\Debug\net8.0\refint\03_Method_Ornekler.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\obj\Debug\net8.0\03_Method_Ornekler.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\obj\Debug\net8.0\03_Method_Ornekler.genruntimeconfig.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\03_Method_Ornekler\obj\Debug\net8.0\ref\03_Method_Ornekler.dll

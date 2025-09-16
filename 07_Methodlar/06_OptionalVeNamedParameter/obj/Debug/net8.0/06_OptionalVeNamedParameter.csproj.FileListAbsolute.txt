@@ -1,0 +1,14 @@
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\bin\Debug\net8.0\06_OptionalVeNamedParameter.exe
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\bin\Debug\net8.0\06_OptionalVeNamedParameter.deps.json
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\bin\Debug\net8.0\06_OptionalVeNamedParameter.runtimeconfig.json
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\bin\Debug\net8.0\06_OptionalVeNamedParameter.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\bin\Debug\net8.0\06_OptionalVeNamedParameter.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\obj\Debug\net8.0\06_OptionalVeNamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\obj\Debug\net8.0\06_OptionalVeNamedParameter.AssemblyInfoInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\obj\Debug\net8.0\06_OptionalVeNamedParameter.AssemblyInfo.cs
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\obj\Debug\net8.0\06_OptionalVeNamedParameter.csproj.CoreCompileInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\obj\Debug\net8.0\06_OptionalVeNamedParameter.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\obj\Debug\net8.0\refint\06_OptionalVeNamedParameter.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\obj\Debug\net8.0\06_OptionalVeNamedParameter.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\obj\Debug\net8.0\06_OptionalVeNamedParameter.genruntimeconfig.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\06_OptionalVeNamedParameter\obj\Debug\net8.0\ref\06_OptionalVeNamedParameter.dll

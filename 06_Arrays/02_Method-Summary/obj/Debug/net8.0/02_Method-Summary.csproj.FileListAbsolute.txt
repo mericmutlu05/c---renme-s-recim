@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\bin\Debug\net8.0\02_Method-Summary.exe
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\bin\Debug\net8.0\02_Method-Summary.deps.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\bin\Debug\net8.0\02_Method-Summary.runtimeconfig.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\bin\Debug\net8.0\02_Method-Summary.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\bin\Debug\net8.0\02_Method-Summary.pdb
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\obj\Debug\net8.0\02_Method-Summary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\obj\Debug\net8.0\02_Method-Summary.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\obj\Debug\net8.0\02_Method-Summary.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\obj\Debug\net8.0\02_Method-Summary.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\obj\Debug\net8.0\02_Method-Summary.sourcelink.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\obj\Debug\net8.0\02_Method-Summary.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\obj\Debug\net8.0\refint\02_Method-Summary.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\obj\Debug\net8.0\02_Method-Summary.pdb
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\obj\Debug\net8.0\02_Method-Summary.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\06_Arrays\02_Method-Summary\obj\Debug\net8.0\ref\02_Method-Summary.dll

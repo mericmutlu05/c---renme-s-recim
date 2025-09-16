@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\bin\Debug\net8.0\03_Methodlar_Ornekler.exe
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\bin\Debug\net8.0\03_Methodlar_Ornekler.deps.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\bin\Debug\net8.0\03_Methodlar_Ornekler.runtimeconfig.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\bin\Debug\net8.0\03_Methodlar_Ornekler.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\bin\Debug\net8.0\03_Methodlar_Ornekler.pdb
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\obj\Debug\net8.0\03_Methodlar_Ornekler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\obj\Debug\net8.0\03_Methodlar_Ornekler.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\obj\Debug\net8.0\03_Methodlar_Ornekler.AssemblyInfo.cs
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\obj\Debug\net8.0\03_Methodlar_Ornekler.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\obj\Debug\net8.0\03_Methodlar_Ornekler.sourcelink.json
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\obj\Debug\net8.0\03_Methodlar_Ornekler.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\obj\Debug\net8.0\refint\03_Methodlar_Ornekler.dll
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\obj\Debug\net8.0\03_Methodlar_Ornekler.pdb
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\obj\Debug\net8.0\03_Methodlar_Ornekler.genruntimeconfig.cache
+C:\Users\MSI\Desktop\c-ogrenme-surecim\07_Methodlar\03_Methodlar_Ornekler\obj\Debug\net8.0\ref\03_Methodlar_Ornekler.dll

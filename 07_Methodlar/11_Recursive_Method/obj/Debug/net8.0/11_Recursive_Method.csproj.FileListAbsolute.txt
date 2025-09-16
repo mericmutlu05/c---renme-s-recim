@@ -1,0 +1,14 @@
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\bin\Debug\net8.0\11_Recursive_Method.exe
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\bin\Debug\net8.0\11_Recursive_Method.deps.json
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\bin\Debug\net8.0\11_Recursive_Method.runtimeconfig.json
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\bin\Debug\net8.0\11_Recursive_Method.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\bin\Debug\net8.0\11_Recursive_Method.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\obj\Debug\net8.0\11_Recursive_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\obj\Debug\net8.0\11_Recursive_Method.AssemblyInfoInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\obj\Debug\net8.0\11_Recursive_Method.AssemblyInfo.cs
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\obj\Debug\net8.0\11_Recursive_Method.csproj.CoreCompileInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\obj\Debug\net8.0\11_Recursive_Method.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\obj\Debug\net8.0\refint\11_Recursive_Method.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\obj\Debug\net8.0\11_Recursive_Method.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\obj\Debug\net8.0\11_Recursive_Method.genruntimeconfig.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\11_Recursive_Method\obj\Debug\net8.0\ref\11_Recursive_Method.dll

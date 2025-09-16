@@ -1,0 +1,14 @@
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\bin\Debug\net8.0\12_Odev.exe
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\bin\Debug\net8.0\12_Odev.deps.json
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\bin\Debug\net8.0\12_Odev.runtimeconfig.json
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\bin\Debug\net8.0\12_Odev.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\bin\Debug\net8.0\12_Odev.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\obj\Debug\net8.0\12_Odev.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\obj\Debug\net8.0\12_Odev.AssemblyInfoInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\obj\Debug\net8.0\12_Odev.AssemblyInfo.cs
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\obj\Debug\net8.0\12_Odev.csproj.CoreCompileInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\obj\Debug\net8.0\12_Odev.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\obj\Debug\net8.0\refint\12_Odev.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\obj\Debug\net8.0\12_Odev.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\obj\Debug\net8.0\12_Odev.genruntimeconfig.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\12_Odev\obj\Debug\net8.0\ref\12_Odev.dll

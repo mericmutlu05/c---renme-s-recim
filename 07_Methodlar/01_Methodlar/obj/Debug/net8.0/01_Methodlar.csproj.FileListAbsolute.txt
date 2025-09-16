@@ -1,0 +1,14 @@
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\bin\Debug\net8.0\01_Methodlar.exe
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\bin\Debug\net8.0\01_Methodlar.deps.json
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\bin\Debug\net8.0\01_Methodlar.runtimeconfig.json
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\bin\Debug\net8.0\01_Methodlar.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\bin\Debug\net8.0\01_Methodlar.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\obj\Debug\net8.0\01_Methodlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\obj\Debug\net8.0\01_Methodlar.AssemblyInfoInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\obj\Debug\net8.0\01_Methodlar.AssemblyInfo.cs
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\obj\Debug\net8.0\01_Methodlar.csproj.CoreCompileInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\obj\Debug\net8.0\01_Methodlar.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\obj\Debug\net8.0\refint\01_Methodlar.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\obj\Debug\net8.0\01_Methodlar.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\obj\Debug\net8.0\01_Methodlar.genruntimeconfig.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\01_Methodlar\obj\Debug\net8.0\ref\01_Methodlar.dll

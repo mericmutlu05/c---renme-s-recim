@@ -1,0 +1,14 @@
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\bin\Debug\net8.0\02_Method_Summary.exe
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\bin\Debug\net8.0\02_Method_Summary.deps.json
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\bin\Debug\net8.0\02_Method_Summary.runtimeconfig.json
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\bin\Debug\net8.0\02_Method_Summary.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\bin\Debug\net8.0\02_Method_Summary.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\obj\Debug\net8.0\02_Method_Summary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\obj\Debug\net8.0\02_Method_Summary.AssemblyInfoInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\obj\Debug\net8.0\02_Method_Summary.AssemblyInfo.cs
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\obj\Debug\net8.0\02_Method_Summary.csproj.CoreCompileInputs.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\obj\Debug\net8.0\02_Method_Summary.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\obj\Debug\net8.0\refint\02_Method_Summary.dll
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\obj\Debug\net8.0\02_Method_Summary.pdb
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\obj\Debug\net8.0\02_Method_Summary.genruntimeconfig.cache
+D:\Onur_10_13\01_C#-Giriş\06_Methodlar\02_Method_Summary\obj\Debug\net8.0\ref\02_Method_Summary.dll
